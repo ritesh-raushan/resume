@@ -63,7 +63,6 @@ _May 2025 – Present_
 ### **Tawjihi AI (amasQIS.ai, Internship)**
 - Designing and scaling the **FastAPI-based backend** and **PostgreSQL schema** for an AI product recommendation platform.
 - Exposing asynchronous REST endpoints serving ML model predictions for banking products (home loans, business loans, credit cards).
-- **Status:** Project in active development.
 
 ---
 
